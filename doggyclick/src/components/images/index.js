@@ -4,14 +4,15 @@ import './style.css'
 
 
 function imageRender(props){
+  console.log(props);
     return(
 <div className="wrapper">
       <div className="image-border">
         <img className="each-image" width='200' alt="doggy" src={props.image} />
       </div>
-      <span onClick={() => props.ifFalsePlusOne(props.image)}>
-
-      </span>
+      <button onClick={() => props.ifFalsePlusOne(props.id)}>
+        Click Me
+      </button>
 </div>
     )
 }

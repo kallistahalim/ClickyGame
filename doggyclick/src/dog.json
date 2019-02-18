@@ -1,25 +1,26 @@
 [{
-    "image": "https:\/\/images.dog.ceo\/breeds\/leonberg\/n02111129_1390.jpg"
+    "key": 1, "image": "https:\/\/images.dog.ceo\/breeds\/leonberg\/n02111129_1390.jpg","value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/schnauzer-miniature\/n02097047_3074.jpg"
+    "key": 2, "image": "https:\/\/images.dog.ceo\/breeds\/schnauzer-miniature\/n02097047_3074.jpg","value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/entlebucher\/n02108000_3291.jpg"
+    "key": 4, "image": "https:\/\/images.dog.ceo\/breeds\/entlebucher\/n02108000_3291.jpg","value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/spaniel-blenheim\/n02086646_2641.jpg"
+    "key": 5, "image": "https:\/\/images.dog.ceo\/breeds\/spaniel-blenheim\/n02086646_2641.jpg"
+    , "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/appenzeller\/n02107908_1575.jpg"
+    "key": 3, "image": "https:\/\/images.dog.ceo\/breeds\/appenzeller\/n02107908_1575.jpg", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/cattledog-australian\/IMG_4421.JPG"
+    "key": 6, "image": "https:\/\/images.dog.ceo\/breeds\/cattledog-australian\/IMG_4421.JPG", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/retriever-curly\/n02099429_3159.jpg"
+    "key": 7, "image": "https:\/\/images.dog.ceo\/breeds\/retriever-curly\/n02099429_3159.jpg", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/frise-bichon\/stevebaxter_bichon_frise.jpg"
+    "key": 8, "image": "https:\/\/images.dog.ceo\/breeds\/frise-bichon\/stevebaxter_bichon_frise.jpg", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/shihtzu\/n02086240_5696.jpg"
+    "key": 9, "image": "https:\/\/images.dog.ceo\/breeds\/shihtzu\/n02086240_5696.jpg", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/groenendael\/n02105056_1613.jpg"
+    "key": 10, "image": "https:\/\/images.dog.ceo\/breeds\/groenendael\/n02105056_1613.jpg", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/schipperke\/n02104365_663.jpg"
+    "key": 11, "image": "https:\/\/images.dog.ceo\/breeds\/schipperke\/n02104365_663.jpg", "value" : false
 }, {
-    "image": "https:\/\/images.dog.ceo\/breeds\/keeshond\/n02112350_6693.jpg"
+    "key": 12, "image": "https:\/\/images.dog.ceo\/breeds\/keeshond\/n02112350_6693.jpg", "value" : false
 }]
